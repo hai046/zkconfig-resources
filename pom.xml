@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.github.phantomthief</groupId>
+	<groupId>com.github.hai046</groupId>
 	<artifactId>zkconfig-resources</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.0</version>
 
 	<parent>
 		<groupId>org.sonatype.oss</groupId>
@@ -13,13 +13,16 @@
 	<name>zkconfig-resources</name>
 	<description>A ZooKeeper based configuration resources holder</description>
 
-	<url>https://github.com/PhantomThief/zkconfig-resources</url>
+	<url>https://github.com/hai046/zkconfig-resources</url>
 
 	<developers>
 		<developer>
-			<name>w.vela</name>
+			<name>denghaizhu</name>
 		</developer>
-	</developers>
+        <developer>
+            <name>w.vela</name>
+        </developer>
+    </developers>
 
 	<licenses>
 		<license>
@@ -30,9 +33,9 @@
 	</licenses>
 
 	<scm>
-		<connection>scm:git:https://github.com/PhantomThief/zkconfig-resources.git</connection>
-		<url>https://github.com/PhantomThief/zkconfig-resources.git</url>
-		<developerConnection>scm:git:https://github.com/PhantomThief/zkconfig-resources.git</developerConnection>
+		<connection>scm:git:https://github.com/hai046/zkconfig-resources.git</connection>
+		<url>https://github.com/hai046/zkconfig-resources.git</url>
+		<developerConnection>scm:git:https://github.com/hai046/zkconfig-resources.git</developerConnection>
 	</scm>
 
 	<dependencies>
